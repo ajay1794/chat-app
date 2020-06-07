@@ -11,3 +11,8 @@ link: https://github.com/microsoftarchive/redis/releases
 download latest version (prefer zip file) and open redis-server.exe
 then open the Project
 
+NOTE: after running the "py manage.py runserver" command go to http://127.0.0.1:8000/chat to choose chat room
+
+* enter any name of chatroom you want  and open another browser window and open the same link there and type exact same name of chat room there.
+* Now type anything in the sendbox and press enter. It will appear in both windows.
+Hurrah! Chat room is working!
