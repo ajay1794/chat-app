@@ -1,6 +1,7 @@
-# chat-app
----------------------------Specifications required: -----------------------------------------------------
-all libraries can be installed through PIP
+
+Specifications required:
+
+-all libraries can be installed through PIP
 1. Django 3.0.3
 2. channels 2.4.0
 3.channels-redis 2.4.2
@@ -23,7 +24,3 @@ NOw run the Project by typing 'py manage.py runserver'
 and if you did everything right it should work.
 
 PS: if you have any issue please cotact me @ ajaysinghrathore1794@gmail.com
-
-* enter any name of chatroom you want  and open another browser window and open the same link there and type exact same name of chat room there.
-* Now type anything in the sendbox and press enter. It will appear in both windows.
-Hurrah! Chat room is working!
